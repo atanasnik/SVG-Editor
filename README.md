@@ -4,7 +4,7 @@ SVG file editor - a small project for my Object-oriented programming course.
 ## Short description
 The editor supports three types of geometric shapes - a line, a circle, and a
 rectangle. Operations on shapes: creating, deleting, translating, checking if
-a point is being within a shape, checking if a shape is within another shape
+a point is within a shape, checking if a shape is within another shape
 (a circle or a rectangle), calculating and printing the shapes' areas and
 perimeters.
 
