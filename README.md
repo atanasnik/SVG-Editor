@@ -1,5 +1,5 @@
 # SVG-Editor
-SVG file editor - a small project for my Object-oriented programming course.
+A small project for the Object-oriented programming course.
 
 ## Short description
 The editor supports three types of geometric shapes - a line, a circle, and a
